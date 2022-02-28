@@ -25,7 +25,7 @@ ZAID_Help += f" `.raid` - To Raid\n `.replyraid` - To Active Reply Raid\n `.drep
 
 ZAID_Help += f" .zaidspam - ɪ ᴡɪʟʟ ꜱᴜɢɢᴇꜱᴛ ᴅᴏɴ'ᴛ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ😂😈↧\n\n"
 
-ZAID_Help += f"© @DANGEROUS_KANNADIGA\n"
+ZAID_Help += f"© @AGORABOTS_INFO\n"
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
