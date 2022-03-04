@@ -1,8 +1,8 @@
 # [𝗞𝗔𝗥𝗡𝗔𝗧𝗔𝗞𝗔'𝗦 𝗧𝗢𝗣 𝟭](https://t.me/NAAN_1_KANNADIGA) <br>
 # 𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗦𝗣𝗘𝗘𝗗𝗘𝗦𝗧 𝗔𝗡𝗗 𝗦𝗧𝗥𝗢𝗡𝗚𝗘𝗦𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗪𝗔𝗥𝗙𝗔𝗗𝗘 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔](https://t.me/WarFade)
 # KANNADIGA ROBOT SPAMBOT
-# TOP CREDITS - [KING'S QUEEN](https://t.me/KANNADIGA_BOTS)
-# [AMMU GOUDA ,SWAG QUEEN ,PURESOUL ,KAVYA](https://t.me/PARAMA_SUNDARI)
+# TOP CREDITS - [AGORA](https://t.me/AGORABOTS_INFO)
+# [AMMU GOUDA , MILANA , SWATI , ASHU , TANU , PURESOUL , KAVYA](https://t.me/PARAMA_SUNDARI)
 <p align="center">
   <img src="https://telegra.ph/file/d336651ca60a7a122f524.jpg">
 </p>
