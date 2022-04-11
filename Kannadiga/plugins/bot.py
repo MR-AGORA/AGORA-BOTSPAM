@@ -15,10 +15,10 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-KANNADIGA_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/bc756c9f0f5240ce42160.jpg"
+KANNADIGA_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/fcf7fb7bcb39609e3f9fd.jpg"
   
 
-DEADLY = "⚡ 𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔 𝗕𝗢𝗧  ⚡\n\n"
+DEADLY = "⚡ 𝗞𝗔𝗥𝗨𝗡𝗔𝗗𝗔 𝗙𝗜𝗚𝗛𝗧𝗘𝗥𝗦 ⚡\n\n"
 DEADLY += f" ❤️𝐊𝐀𝐑𝐍𝐀𝐓𝐀𝐊𝐀's 𝟭𝐒𝐓 𝐁𝐎𝐓𝐒𝐏𝐀𝐌❤️\n\n"
 DEADLY += f"╔═══════════════════════╗\n"
 DEADLY += f"║• **ᴄʀᴇᴀᴛᴏʀ** :`ᴘʀᴏғᴇssᴏʀ ᴀɢᴏʀᴀ   `             ║\n"
@@ -35,8 +35,8 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("❤️ ᴄʜᴀɴɴᴇʟ ❤️", "https://t.me/KANNADIGA_BOTS"),
-        Button.url("💛 sᴜᴘᴘᴏʀᴛ 💛", "https://t.me/NAAN_1_KANNADIGA")
+        Button.url("❤️ ᴄʜᴀɴɴᴇʟ ❤️", "https://t.me/KARUNADA_KINGS_AND_QUEENS"),
+        Button.url("💛 sᴜᴘᴘᴏʀᴛ 💛", "https://t.me/KARUNADA_FIGHTERS")
         ],
         [
         Button.url("✨ ʀᴇᴘᴏ ✨", "https://github.com/MR-KANNADIGA/ROBOTSPAM")
