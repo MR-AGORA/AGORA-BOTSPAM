@@ -36,13 +36,13 @@ async def spam(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in Deadly:
-                text = f"I can't raid on @KANNADIGA_BOTS Owner"
+                text = f"I can't raid on @AGORA_ROBOTS Owner"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) == OWNER_ID:
-                text = f"This Person Is Owner Of This Bot."
+                text = f"This Person Is My Husband Of This Bot."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
-                text = f"This Person Is Sudo User."
+                text = f"This Person Is Friend Of My hubby User."
                 await e.reply(text, parse_mode=None, link_preview=None )
             else:
                 c = a.first_name
@@ -59,13 +59,13 @@ async def spam(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in MR-KANNADIGA:
-                text = f"I Can't Raid On @KANNADIGA_BOTS Owner"
+                text = f"I Can't Raid On @AGORA_ROBOTS Owner"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) == OWNER_ID:
-                text = f"This Person Is Owner Of This Bot."
+                text = f"This Person Is My hudband Of This Bot."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
-                text = f"This Person Is Sudo User."
+                text = f"This Person Is friend of my hubby User."
                 await e.reply(text, parse_mode=None, link_preview=None )
             else:
                 c = b.first_name
@@ -129,13 +129,13 @@ async def _(e):
             user_idd = a.id
             user_id = int(user_idd)
             if int(user_id) in Deadly:
-                text = f"Can't Raid On @KANNADIGA_BOTS Owner."
+                text = f"Can't Raid On @AGORA_ROBOTS Owner."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) == OWNER_ID:
-                text = f"This Person Is Owner Of This Bot."            
+                text = f"This Person Is My husband Of This Bot."            
                 await event.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
-                text = f"This Person Is Sudo User"
+                text = f"This Person Is friend of my hubby User"
                 await e.reply(text, parse_mode=None, link_preview=None )
             else:
                 que[user_id] = []
@@ -150,13 +150,13 @@ async def _(e):
             user_idd = umser.id
             user_id = int(user_idd)
             if int(user_id) in MR-KANNADIGA:
-                text = f" can't raid on @KANNADIGA_BOTS Owner."
+                text = f" can't raid on @AGORA_ROBOTS Owner."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) == OWNER_ID:
-                text = f"This guy is a owner Of this Bots."
+                text = f"This guy is a my husband Of this Bots."
                 await event.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
-                text = f"This guy is a sudo user."
+                text = f"This guy is a friend of my hubby user."
                 await e.reply(text, parse_mode=None, link_preview=None )
             else:
                 que[user_id] = []
@@ -233,13 +233,13 @@ async def _(event):
              a = await event.client.get_entity(user)
              e = a.id
              if int(e) in MR-KANNADIGA:
-                    text = f"I can't raid on @KANNADIGA_BOTS Owner"
+                    text = f"I can't raid on @AGORA_ROBOTS Owner"
                     await event.reply(text, parse_mode=None, link_preview=None )
              elif int(e) == OWNER_ID:
-                text = f"This guy is a owner Of this Bots."
+                text = f"This guy is a my_husband Of this Bots."
                 await event.reply(text, parse_mode=None, link_preview=None )
              elif int(e) in SUDO_USERS:
-                    text = f"This guy is a sudo user."
+                    text = f"This guy is a friend of my hubby user."
                     await event.reply(text, parse_mode=None, link_preview=None )
              else:
                  c = a.first_name
@@ -257,13 +257,13 @@ async def _(event):
                b = await event.client.get_entity(a.sender_id)
                e = b.id
                if int(e) in MR-KANNADIGA:
-                       text = f"I can't raid on @KANNADIGA_BOTS Owner"
+                       text = f"I can't raid on @AGORA_ROBOTS Owner"
                        await event.reply(text, parse_mode=None, link_preview=None )
                elif int(e) == OWNER_ID:
-                       text = f"This guy is a owner Of this Bots."
+                       text = f"This guy is a my husband Of this Bots."
                        await event.reply(text, parse_mode=None, link_preview=None )
                elif int(e) in SUDO_USERS:
-                       text = f"This guy is a sudo user."
+                       text = f"This guy is a friend of my hubby user."
                        await event.reply(text, parse_mode=None, link_preview=None )
                else:
                    c = b.first_name
