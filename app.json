@@ -1,7 +1,7 @@
 {
-    "name": "Kannadiga Robot Spam Bot",
-    "description": "MOST POWERFULL SPAMMING BOT MADE BY KANNADIGA",
-    "logo": "https://te.legra.ph/file/bc756c9f0f5240ce42160.jpg",
+    "name": "Agora Robot Spam Bot",
+    "description": "MOST POWERFULL SPAMMING BOT MADE BY AGORA",
+    "logo": "https://te.legra.ph/file/743570cee67092f5d03b7.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -10,7 +10,7 @@
         "SpamBot"
     ],
     "repository": "https://github.com/MR-KANNADIGA/ROBOTSPAM",
-    "website": "https://t.me/MR_PROFESSOR_AGORA",
+    "website": "https://t.me/MR_AGORA",
     "success_url": "https://github.com/MR-KANNADIGA/ROBOTSPAM",
     "env": {
              "API_ID": {
@@ -20,7 +20,7 @@
       },
       "ALIVE_PIC": {
         "description": "Telegraph Link Of Photo/Video",
-        "value": "https://telegra.ph/file/d336651ca60a7a122f524.jpg",
+        "value": "https://te.legra.ph/file/743570cee67092f5d03b7.jpg",
         "required": false
       },
       "API_HASH": {
