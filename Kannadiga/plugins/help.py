@@ -5,11 +5,12 @@ from time import time
 from datetime import datetime
 from Kannadiga import CMD_HNDLR as hl
     
-HELP_PIC = "https://telegra.ph/file/d336651ca60a7a122f524.jpg"
+HELP_PIC = "https://te.legra.ph/file/743570cee67092f5d03b7.jpg"
 
-ZAID_Help = "❤️💛 Kᴀɴɴᴀᴅɪɢᴀ Rᴏʙᴏᴛ Sᴘᴀᴍ 💛❤️\n\n"
+ZAID_Help = "❤️💛 ΛႺՕ𝖱Λ 𝖱ՕΒՕΤ 𝖲РΛМ 💛❤️\n\n"
  
-ZAID_Help += f"_ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴇᴀᴅʟʏ ʙᴏᴛ__\n\n"
+ZAID_Help += f"_ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴇᴀᴅʟʏ ʙᴏ_ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴀɢᴏʀᴀ ʙᴏᴛ__\n\n"
+ᴛ__\n\n"
 
 ZAID_Help += f" ↧ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙲𝙼𝙳𝚂 ↧\n\n"
 
@@ -25,7 +26,7 @@ ZAID_Help += f" `.raid` - To Raid\n `.replyraid` - To Active Reply Raid\n `.drep
 
 ZAID_Help += f" .zaidspam - ɪ ᴡɪʟʟ ꜱᴜɢɢᴇꜱᴛ ᴅᴏɴ'ᴛ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ😂😈↧\n\n"
 
-ZAID_Help += f"© @AGORABOTS_INFO\n"
+ZAID_Help += f"© @AGORA_ROBOTS\n"
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -36,7 +37,7 @@ async def help(event):
                                   caption=ZAID_Help,
                                   buttons=[
         [
-        Button.url("❤️ ᴄʜᴀɴɴᴇʟ ❤️", "https://t.me/KANNADIGA_BOTS")
+        Button.url("❤️ ᴄʜᴀɴɴᴇʟ ❤️", "https://t.me/AGORA_ROBOTS")
         ] 
         ]
         )                                                         
