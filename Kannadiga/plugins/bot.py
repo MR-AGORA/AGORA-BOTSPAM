@@ -15,15 +15,15 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-KANNADIGA_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/fcf7fb7bcb39609e3f9fd.jpg"
+KANNADIGA_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/743570cee67092f5d03b7.jpg"
   
 
-DEADLY = "⚡ 𝗞𝗔𝗥𝗨𝗡𝗔𝗗𝗔 𝗙𝗜𝗚𝗛𝗧𝗘𝗥𝗦 ⚡\n\n"
-DEADLY += f" ❤️𝐊𝐀𝐑𝐍𝐀𝐓𝐀𝐊𝐀's 𝟭𝐒𝐓 𝐁𝐎𝐓𝐒𝐏𝐀𝐌❤️\n\n"
+DEADLY = "⚡  ΛႺՕ𝖱Λ 𝖱ՕΒՕΤ𝖲 ⚡\n\n"
+DEADLY += f" ❤️𝗔𝗚𝗢𝗥𝗔 𝗕𝗢𝗧 𝗦𝗣𝗔𝗠❤️\n\n"
 DEADLY += f"╔═══════════════════════╗\n"
-DEADLY += f"║• **ᴄʀᴇᴀᴛᴏʀ** :`𝗞𝗔𝗥𝗨𝗡𝗔𝗗𝗔 𝗞𝗜𝗡𝗚   `             ║\n"
+DEADLY += f"║• **ᴄʀᴇᴀᴛᴏʀ** :` [ΛႺՕ𝖱Λ](https://t.me/mr_agora)  `             ║\n"
 DEADLY += f"║• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`               ║\n"
-DEADLY += f"║• **ᴋᴀɴɴᴀᴅɪɢᴀ ʙᴏᴛ sᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `{kannadigaversion}` ║\n"
+DEADLY += f"║• **ᴀɢᴏʀᴀ ʙᴏᴛ sᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `{kannadigaversion}` ║\n"
 DEADLY += f"╚═══════════════════════╝\n\n"   
 
                                   
@@ -36,10 +36,10 @@ async def alive(event):
                                   buttons=[
         [
         Button.url("❤️ ᴄʜᴀɴɴᴇʟ ❤️", "https://t.me/KARUNADA_KINGS_AND_QUEENS"),
-        Button.url("💛 sᴜᴘᴘᴏʀᴛ 💛", "https://t.me/KARUNADA_FIGHTERS")
+        Button.url("💛 sᴜᴘᴘᴏʀᴛ 💛", "https://t.me/AGORA_ROBOTS")
         ],
         [
-        Button.url("✨ ʀᴇᴘᴏ ✨", "https://github.com/MR-KANNADIGA/ROBOTSPAM")
+        Button.url("✨ ʀᴇᴘᴏ ✨", "https://github.com/,MR-KANNADIGA/ROBOTSPAM")
         ]
         ]
         )
@@ -88,7 +88,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🎉 𝗬𝗘𝗦 𝗕𝗢𝗦𝗦!\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
+        await event.edit(f"🎉 ᴏʜ ʏᴇᴀʜ ʙᴀʙʏ 👅!\n\n♡︎ `{ms}` ᴍs ♡︎")
         
         
 
