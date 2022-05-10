@@ -177,7 +177,7 @@ async def unlimitedspam(event):
         await event.client.send_message(event.chat, op)
         await asyncio.sleep(0.3)
     except Exception as e:
-      await event.reply("Oops!! Something Went Wrong, Report In @NAAN_1_KANNADIGA\n\n" + str(e))
+      await event.reply("Oops!! Something Went Wrong, Report In @Agora_Robots\n\n" + str(e))
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%szaidspam(?: |$)(.*)" % hl))
