@@ -9,17 +9,17 @@ KANNADIGA_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/bc756c9f0f
 
 Deadly_Button = [
         [
-        Button.url("❤️ sᴜᴘᴘᴏʀᴛ ❤️", "https://t.me/KANNADIGA_BOTS")
+        Button.url("❤️ sᴜᴘᴘᴏʀᴛ ❤️", "https://t.me/AGORA_ROBOTS")
         ],
         [
-        Button.url("💛 ᴍᴀɪɴᴛᴀɪɴ ʙʏ 💛", "https://t.me/MR_PROFESSOR_AGORA")
+        Button.url("💛 ΛႺՕ𝖱Λ 💛", "https://t.me/MR_AGORA")
         ]
         ]
                
 DeadlyX_Button = [
         [
-        Button.url("❤️ ᴄʜᴀɴɴᴇʟ ❤️", "https://t.me/KANNADIGA_BOTS"),
-        Button.url("💛 sᴜᴘᴘᴏʀᴛ 💛", "https://t.me/NAAN_1_KANNADIGA")
+        Button.url("❤️ ᴄʜᴀɴɴᴇʟ ❤️", "https://t.me/AGORA_ROBOTS"),
+        Button.url("💛 sᴜᴘᴘᴏʀᴛ 💛", "https://t.me/KARUNADA_KINGS_AND_QUEENS")
         ],
         [
         Button.url("✨ ʀᴇᴘᴏ ✨", "https://github.com/MR-KANNADIGA/ROBOTSPAM")
