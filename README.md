@@ -28,7 +28,7 @@
 
 #### With Heroku
 
-<a href="https://www.heroku.com/deploy?template=https://github.com/AGORA-ROBOTS/BOTSPAM">
+<a href="https://www.heroku.com/deploy?template=https://github.com/MR-KANNADIGA/BOTSPAM">
   <img src="https://www.herokucdn.com/deploy/button.svg">
 </a>
 
