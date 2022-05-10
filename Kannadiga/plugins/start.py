@@ -5,7 +5,7 @@ from telethon import events, Button
 from telethon.tl.custom import button
 from Kannadiga import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID
 
-KANNADIGA_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/bc756c9f0f5240ce42160.jpg"
+KANNADIGA_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/743570cee67092f5d03b7.jpg"
 
 Deadly_Button = [
         [
