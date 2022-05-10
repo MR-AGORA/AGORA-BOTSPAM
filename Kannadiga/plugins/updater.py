@@ -18,7 +18,7 @@ BOT_IS_UP_TO_DATE = "**The Agora Robot Spam Bot** is up-to-date sur."
 NEW_BOT_UP_DATE_FOUND = (
     "new update found for {branch_name}\n"
     "changelog: \n\n{changelog}\n"
-    "updating your Deadly Spam Bot..."
+    "updating your Agora Spam Bot..."
 )
 NEW_UP_DATE_FOUND = "New update found for {branch_name}\n" "`updating your Kannadiga Robot Spam Bot...`"
 REPO_REMOTE_NAME = "temponame"
