@@ -10,7 +10,6 @@ HELP_PIC = "https://te.legra.ph/file/743570cee67092f5d03b7.jpg"
 ZAID_Help = "❤️💛 ΛႺՕ𝖱Λ 𝖱ՕΒՕΤ 𝖲РΛМ 💛❤️\n\n"
  
 ZAID_Help += f"_ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴇᴀᴅʟʏ ʙᴏ_ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴀɢᴏʀᴀ ʙᴏᴛ__\n\n"
-ᴛ__\n\n"
 
 ZAID_Help += f" ↧ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙲𝙼𝙳𝚂 ↧\n\n"
 
