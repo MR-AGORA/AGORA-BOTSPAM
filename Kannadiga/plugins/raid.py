@@ -39,7 +39,7 @@ async def spam(e):
                 text = f"I can't raid on @AGORA_ROBOTS Owner"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) == OWNER_ID:
-                text = f"This Person Is My Husband Of This Bot."
+                text = f"This Person Is Husband Of This Bot."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This Person Is Friend Of My hubby User."
@@ -62,7 +62,7 @@ async def spam(e):
                 text = f"I Can't Raid On @AGORA_ROBOTS Owner"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) == OWNER_ID:
-                text = f"This Person Is My hudband Of This Bot."
+                text = f"This Person Is husband Of This Bot."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This Person Is friend of my hubby User."
@@ -132,7 +132,7 @@ async def _(e):
                 text = f"Can't Raid On @AGORA_ROBOTS Owner."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) == OWNER_ID:
-                text = f"This Person Is My husband Of This Bot."            
+                text = f"This Person Is husband Of This Bot."            
                 await event.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
                 text = f"This Person Is friend of my hubby User"
@@ -153,7 +153,7 @@ async def _(e):
                 text = f" can't raid on @AGORA_ROBOTS Owner."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) == OWNER_ID:
-                text = f"This guy is a my husband Of this Bots."
+                text = f"This guy is a husband Of this Bots."
                 await event.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
                 text = f"This guy is a friend of my hubby user."
@@ -236,7 +236,7 @@ async def _(event):
                     text = f"I can't raid on @AGORA_ROBOTS Owner"
                     await event.reply(text, parse_mode=None, link_preview=None )
              elif int(e) == OWNER_ID:
-                text = f"This guy is a my_husband Of this Bots."
+                text = f"This guy is a husband Of this Bots."
                 await event.reply(text, parse_mode=None, link_preview=None )
              elif int(e) in SUDO_USERS:
                     text = f"This guy is a friend of my hubby user."
@@ -260,7 +260,7 @@ async def _(event):
                        text = f"I can't raid on @AGORA_ROBOTS Owner"
                        await event.reply(text, parse_mode=None, link_preview=None )
                elif int(e) == OWNER_ID:
-                       text = f"This guy is a my husband Of this Bots."
+                       text = f"This guy is a husband Of this Bots."
                        await event.reply(text, parse_mode=None, link_preview=None )
                elif int(e) in SUDO_USERS:
                        text = f"This guy is a friend of my hubby user."
