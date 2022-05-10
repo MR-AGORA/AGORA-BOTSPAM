@@ -15,7 +15,7 @@
     "env": {
              "API_ID": {
         "description": "Get API_ID from my.telegram.org & Enter Here",
-        "value": "",
+        "value": "12787577",
         "required": true
       },
       "ALIVE_PIC": {
@@ -25,12 +25,12 @@
       },
       "API_HASH": {
         "description": "Get API_HASH from my.telegram.org & Enter Here",
-        "value": "",
+        "value": "d30cef43991a144be80615919bfcfc6c",
         "required": true
       },
      "CMD_HNDLR": {
             "description": "Your Command Handler",
-            "value": "!",
+            "value": ".",
             "required": false
         },
       "BOT_TOKEN": {
