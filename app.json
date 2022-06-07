@@ -1,5 +1,5 @@
 {
-    "name": "AGORA BOTSPA.",
+    "name": "AGORA BOTSPAM.",
     "description": "MOST POWERFULL SPAMMING BOT MADE BY AGORA",
     "logo": "https://te.legra.ph/file/743570cee67092f5d03b7.jpg",
     "keywords": [
@@ -9,9 +9,9 @@
         "Mr-Kannadiga",
         "SpamBot"
     ],
-    "repository": "https://github.com/MR-KANNADIGA/ROBOTSPAM",
+    "repository": "https://github.com/MR-AGORA/AGORA-BOTSPAM",
     "website": "https://t.me/MR_AGORA",
-    "success_url": "https://github.com/MR-KANNADIGA/ROBOTSPAM",
+    "success_url": "https://github.com/MR-AGORA/AGORA-BOTSPAM",
     "env": {
              "API_ID": {
         "description": "Get API_ID from my.telegram.org & Enter Here",
